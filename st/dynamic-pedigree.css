@@ -1,0 +1,13 @@
+﻿.gs-dps{min-width:10em}
+.gs-c-box{overflow:visible}
+.gs-c-gm,.gs-c-gf{padding-right:14px}
+.gs-c-ctlb{border-radius:3px 0 0 3px}
+.gs-dpf{margin-top:16px}
+.gs-dpl{font-size:small;list-style-type:none;margin-top:0;overflow:auto;padding-left:0;position:absolute;text-align:left}
+.gs-dpl ul{margin-left:1em;margin-top:0;padding-left:0}
+.gs-dplt{font-weight:bold}
+#dp .gs-c-box div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#dpls{display:flex;flex-direction:column}
+#dpls > :first-child{margin-top:auto}
+.gs-dpl a,.gs-dpl a:link,.gs-dpl a:visited,.gs-dpl a:hover,.gs-dpl a:active{color:unset;font-weight:normal;text-decoration:none !important}
+.gs-dpre{background-position:-103px -102px}
