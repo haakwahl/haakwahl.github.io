@@ -645,6 +645,8 @@ body{margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;}
 nav.gs-menubar{border-bottom:4px solid #ffffff;}
 
 /* RichText Classes */
+.rt-ff-Arial{font-family:"Arial","Arial","Helvetica",serif}
+.rt-fs-9pt{font-size:9pt}
 .rt-fs-12pt{font-size:12pt}
 .rt-fs-10pt{font-size:10pt}
 .rt-ff-Aptos{font-family:"Aptos","Arial","Helvetica",serif}
@@ -654,16 +656,10 @@ nav.gs-menubar{border-bottom:4px solid #ffffff;}
 .rt-bc-FFFFFF{background-color:#FFFFFF}
 .rt-tc-222222{color:#222222}
 .rt-tc-202122{color:#202122}
-.rt-fs-15pt{font-size:15pt}
-.rt-ff-Times-New-Roman{font-family:"Times New Roman","Georgia",serif}
-.rt-fs-13pt{font-size:13pt}
-.rt-ff-Arial{font-family:"Arial","Arial","Helvetica",serif}
-.rt-tc-2D2B2B{color:#2D2B2B}
 .rt-tc-0563C1{color:#0563C1}
 .rt-tc-FF0000{color:#FF0000}
 .rt-tc-414141{color:#414141}
 .rt-ff-Segoe-UI{font-family:"Segoe UI",}
-.rt-fs-9pt{font-size:9pt}
 .rt-tc-0A0A0A{color:#0A0A0A}
 .rt-tc-CA0003{color:#CA0003}
 .rt-ff-Segoe-UI{font-family:"Segoe UI","Arial","Helvetica",serif}
